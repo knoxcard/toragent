@@ -24,14 +24,14 @@
   },
   "homepage": "https://github.com/danielstjules/toragent#readme",
   "dependencies": {
-    "bluebird": "^2.9.34",
+    "bluebird": "^3.5.2",
     "openports": "0.0.1",
-    "socks5-client": "1.1.2",
-    "tmp": "0.0.27"
+    "socks5-client": "1.2.6",
+    "tmp": "0.0.33"
   },
   "devDependencies": {
     "chai": "^3.2.0",
     "mocha": "^2.2.5",
-    "request": "^2.60.0"
+    "request": "^2.88.0"
   }
 }
